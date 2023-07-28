@@ -1,0 +1,60 @@
+.form-card {
+  margin: 1rem;
+  width: 90%;
+}
+
+.user-inputs-container,
+.button-container {
+  width: 90%;
+  marging: 0.5rem;
+  padding: 0.5rem;
+}
+
+.user-inputs-container {
+  margin: .3rem;
+  padding: .3rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.input-gender {
+  margin: .3rem;
+  width: 20%;
+  display: flex;
+  justify-content: space-between;
+}
+.radio {
+
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+
+.form-button {
+  font-size: large;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0rem .6rem;
+}
+
+input, label {
+  padding: .3rem;
+}
+
+label {
+  font-size: large;
+  color: dodgerblue;
+}
+
+input {
+  padding: .6rem;
+  border: none;
+  border-radius: .3rem;
+  box-shadow: .1rem .1rem .3rem .10rem rgb(0, 0, 0, .45);
+}

@@ -1,0 +1,10 @@
+.App {
+  width: 50rem;
+  height:auto;
+  margin: 5rem;;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: fantasy;
+  font-weight: bold;
+}

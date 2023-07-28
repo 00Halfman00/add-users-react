@@ -1,0 +1,17 @@
+.li-card {
+  margin: .6rem;
+  padding: .3rem;
+  width: 90%;
+}
+
+li {
+  width: 100%;
+  padding: .3rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+span {
+  width: 33%;
+  margin: 0;
+}
