@@ -1,3 +1,6 @@
+Just spending time with React, JS, HTML and CSS, so as to explore ways to 
+set things up...
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
